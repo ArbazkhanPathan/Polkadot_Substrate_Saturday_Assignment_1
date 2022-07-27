@@ -1,0 +1,2 @@
+https://practice.rs/generics-traits/generics.html
+
