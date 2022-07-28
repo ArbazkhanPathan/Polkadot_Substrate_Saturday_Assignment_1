@@ -1,4 +1,4 @@
 var searchIndex = JSON.parse('{\
-"doc_comments":{"doc":"","t":[],"n":[],"q":[],"d":[],"i":[],"f":[],"p":[]}\
+"doc_comments":{"doc":"","t":[5,5,5,0,5,5],"n":["add_one","add_three","add_two","compute","div","try_div"],"q":["doc_comments","","","","doc_comments::compute",""],"d":["Add one to the given value and return a new value","Add three to the given value and return a <code>Option</code> type","Add two to the given value and return a new value","Do some complicated arithmetic that you can’t do by …","Panics",""],"i":[0,0,0,0,0,0],"f":[[[["i32",0]],["i32",0]],[[["i32",0]],["option",4,[["i32",0]]]],[[["i32",0]],["i32",0]],null,[[["i32",0],["i32",0]],["i32",0]],[[["i32",0],["i32",0]],["result",4,[["i32",0],["string",3]]]]],"p":[]}\
 }');
 if (window.initSearch) {window.initSearch(searchIndex)};

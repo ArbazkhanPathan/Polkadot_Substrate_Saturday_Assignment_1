@@ -1,1 +1,1 @@
-initSidebarItems({});
+initSidebarItems({"fn":[["add_one","Add one to the given value and return a new value"],["add_three","Add three to the given value and return a [`Option`] type"],["add_two","Add two to the given value and return a new value"]],"mod":[["compute","Do some complicated arithmetic that you can’t do by yourself"]]});
